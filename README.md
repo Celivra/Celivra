@@ -38,7 +38,7 @@
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Celivra"><img src="https://komarev.com/ghpvc/?username=Celivra&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
-<!-- <p align="center">
+ <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=The%20END&section=footer&fontColor=ffffff" alt="The End" title="The End"/>
-</p> -->
+</p>
