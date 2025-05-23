@@ -2,8 +2,6 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Celivra&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title=":wave: Hi There"/>
 </p>
-
-
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
@@ -12,6 +10,10 @@
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
     <img width="400" src="https://github-readme-streak-stats-Xiaokang2022.vercel.app?user=Celivra&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> 
+            <!--offen language-->
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celivra&layout=compact&theme=transparent&hide_border=true"/>
+
+
 
 
 <p align="center">
@@ -22,9 +24,9 @@
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Celivra&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-        <!--offen language-->
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celivra&layout=compact&theme=transparent"/>
+
 </p>
+
 
 
 
@@ -45,4 +47,3 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=The%20END&section=footer&fontColor=ffffff" alt="The End" title="The End"/>
 </p>
-
